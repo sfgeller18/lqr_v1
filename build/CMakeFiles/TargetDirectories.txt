@@ -1,0 +1,3 @@
+/home/sfgeller18/projects/lqr/build/CMakeFiles/lqr.dir
+/home/sfgeller18/projects/lqr/build/CMakeFiles/edit_cache.dir
+/home/sfgeller18/projects/lqr/build/CMakeFiles/rebuild_cache.dir

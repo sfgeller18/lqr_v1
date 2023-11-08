@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/lqr.dir/src/lqr.cpp.o CMakeFiles/lqr.dir/src/main.cpp.o -o lqr 
